@@ -12,7 +12,6 @@ The Reliance Smart store wants to create an annual sales report, So that the own
   -<a href = "https://github.com/RichaGitHub1009/Data-Analysis-Dashboard/blob/main/Transactions-1998.csv">Transactions-1998 </a>
 ## QUESTION [KPIs]
 •	Product wise data
-
 •	Region wise Revenue
 •	State wise Transaction
 •	Total Revenue previous month
